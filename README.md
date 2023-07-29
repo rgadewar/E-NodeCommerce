@@ -6,11 +6,11 @@
 
 Challenge is to build the back end for an e-commerce site. You’ll take a working Express.js API and configure it to use Sequelize to interact with a MySQL database
 
-![Image 1](images\tags.png)
+![Image 1](tags.png)
 
-![Image 2](images\categories.png)
+![Image 2](categories.png)
 
-![Image 3](images\products.png)
+![Image 3](products.png)
 
 ### App working example
 [Video Link](https://drive.google.com/file/d/15UMQZIaq3aI1nr72xv_BR-rsFZvTV7UU/view)
