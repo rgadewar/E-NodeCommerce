@@ -14,6 +14,7 @@ Challenge is to build the back end for an e-commerce site. You’ll take a worki
 
 ### App working example
 [Video Link Gets](https://drive.google.com/file/d/1_kYQCYOCXnyy_Z1XVhEurYhZMmcJHu7G/view)
+[Video Link PUT CREATE Delete](https://drive.google.com/file/d/1nSkrV2p5CHyMv_xbSQn9wQsj0pCOV41F/view?usp=sharing)
 
 ## User Story
 AS A manager at an internet retail company
