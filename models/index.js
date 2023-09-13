@@ -7,6 +7,7 @@ const ProductTag = require('./ProductTag');
 // Associations (define relationships between models)
 Product.belongsTo(Category, {
   foreignKey: 'category_id',
+  onDelete: 'SET NULL',
 });
 
 Category.hasMany(Product, {
